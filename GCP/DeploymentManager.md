@@ -1,5 +1,5 @@
 # google-cloud
-informations
+
 <h3>deployment Manager</h3>
 https://cloud.google.com/deployment-manager/docs/
 
@@ -44,7 +44,7 @@ for more refer link:https://cloud.google.com/sdk/docs/quickstart-linux
 
 
 
-<h3>Requirements to create a project</h3>
+<h3>Requirements to create a project and commands to execute</h3>
 
 
 create a YAML extesion file.
